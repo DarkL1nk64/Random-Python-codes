@@ -1,3 +1,5 @@
+#You need "PyAutoGui" to use this
+
 import pyautogui as pygui
 import random
 
